@@ -1,3 +1,6 @@
 {
-  "version": "1.0.0"
+  "version": "1.1.0",
+  "exe": "cash_daily.exe",
+  "changelog": "ปรับการปัดเศษขึ้นอัตโนมัติ และปรับปรุง UI"
 }
+
