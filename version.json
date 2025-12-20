@@ -1,9 +1,13 @@
 {
   "version": "1.2.0",
-  "exe": "cash_daily.exe",
-  "changelog": "ปรับการปัดเศษขึ้นอัตโนมัติ และปรับปรุง UI"
+  "release_date": "2025-12-20",
+  "important": false,
+  "changelog": [
+    "เพิ่มระบบอัปเดตอัตโนมัติผ่าน GitHub",
+    "เพิ่ม popup แสดงรายละเอียดการอัปเดต",
+    "ปรับ Title โปรแกรมตามเวอร์ชัน",
+    "แก้ระบบปัดเศษตัวเลขเป็น Ceiling",
+    "แก้บั๊กการโหลดไฟล์ Excel"
+  ],
+  "download_url": "https://github.com/jnonkaew/cash_daily/releases/latest/download/cash_daily.exe"
 }
-
-
-
-
