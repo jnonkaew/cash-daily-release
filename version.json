@@ -2,14 +2,14 @@
   "version": "1.2.1",
   "release_date": "2025-12-25",
   "important": false,
+  "exe_url": "https://raw.githubusercontent.com/jnonkaew/cash-daily-release/main/download/cash_daily.exe",
   "changelog": [
     "เพิ่มระบบอัปเดตอัตโนมัติผ่าน GitHub",
     "เพิ่ม popup แสดงรายละเอียดการอัปเดต",
     "ปรับ Title โปรแกรมตามเวอร์ชัน",
-    "แก้ระบบปัดเศษตัวเลขเป็น Ceiling",
+    "แก้ระบบปัดเศษตัวเลข",
     "แก้บั๊กการโหลดไฟล์ Excel"
-  ],
-  "download_url": "https://raw.githubusercontent.com/jnonkaew/cash-daily-release/main/download/cash_daily.exe"
+  ]
 }
 
 
