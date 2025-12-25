@@ -3,15 +3,17 @@
   "release_date": "2025-12-25",
   "important": false,
   "exe_url": "https://raw.githubusercontent.com/jnonkaew/cash-daily-release/main/download/cash_daily.exe",
+  "sha256": "DF1BD006996D8DF48B3C68B2F4661E066BF97489410EBAC937AEFE5C4116860B",
   "changelog": [
     "เพิ่มระบบอัปเดตอัตโนมัติผ่าน GitHub",
     "เพิ่ม popup แสดงรายละเอียดการอัปเดต",
     "ปรับ Title โปรแกรมตามเวอร์ชัน",
     "แก้ระบบปัดเศษตัวเลข",
     "แก้บั๊กการโหลดไฟล์ Excel"
-  ],
-   "sha256": "DF1BD006996D8DF48B3C68B2F4661E066BF97489410EBAC937AEFE5C4116860B"
+  ]
+
 }
+
 
 
 
